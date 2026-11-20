@@ -1,0 +1,4 @@
+﻿Model,Accuracy,Macro Precision,Macro Recall,Macro F1,Macro ROC-AUC
+Baseline CNN,0.682741,0.332748,0.377774,0.352366,
+Balanced CNN,0.649746,0.361129,0.401150,0.376806,
+ResNet18 Transfer Learning,0.482234,0.452997,0.464767,0.410149,0.7351

@@ -1,0 +1,2 @@
+model,accuracy,macro_precision,macro_recall,macro_f1,macro_roc_auc_ovr
+ResNet18 Transfer Learning,0.48223350253807107,0.45299670203001396,0.4647668323483507,0.4101486984669334,0.7350541139871565
